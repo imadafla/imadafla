@@ -6,7 +6,7 @@
 Experienced researcher in **novel energy systems** & **sustainable building materials**, focusing on **R&D, modeling, optimization, and smart control**. Passionate about blending science, engineering, and programming to create impactful solutions.  
 
 📍 Based in Morocco | 🌍 Collaborating Internationally  
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNmenJoYmFpbm1qYmRvbDVyaXliNnlrdWdzMGFkaTg4ZXczdDk1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PjgW1x7zKnRQdq1k3i/giphy.gif" width="300" />
 ---
 
 ## 🔬 About Me  
@@ -18,6 +18,7 @@ Experienced researcher in **novel energy systems** & **sustainable building mate
 
 💡 *"Innovating energy systems to shape sustainable buildings of tomorrow."*  
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFzczJ6amc1am94aTM3ODhza2NpNW41ZXI3bW9mejl2M2Z1MGs5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehspnEl8lhKNA2Akxw/giphy.gif" width="300" />
 ---
 
 ## 💻 Skills  
