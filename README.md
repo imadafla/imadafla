@@ -45,6 +45,14 @@ It integrates **PV generation, electrolysis, hydrogen storage, fuel cells, and w
 
 🔗 [GitHub Repository](https://github.com/imadafla/H2_UrbanPlus)  
 
+### [Surrogate-MPC-EPlus – Multi-Objective MPC for EnergyPlus](https://github.com/imadafla/surrogate-mpc-eplus)  
+⚡ **Python | EnergyPlus | TensorFlow | Pymoo**  
+
+A research-oriented framework for **surrogate-based Model Predictive Control (MPC)** in building energy systems.  
+It integrates **EnergyPlus co-simulation, LSTM neural network surrogate modeling, and NSGA-II multi-objective optimization** to enable real-time adaptive envelope control (e.g., movable insulation systems).   
+
+🔗 [GitHub Repository](https://github.com/imadafla/surrogate-mpc-eplus)  
+
 ### [Imad – Personal Research Portfolio Web App](https://github.com/imadafla/imadcv)  
 🖥️ **React + TailwindCSS + Lucide**  
 A personal **Research Portfolio web application**, providing a modern, interactive, and responsive way to showcase my professional profile, skills, experience, and projects with hidden secret lab files (fun if you can find the hidden easter egg to access it).  
@@ -61,7 +69,7 @@ A personal **Research Portfolio web application**, providing a modern, interacti
 ---
 
 ## 🌐 Connect with Me  
-- 🌍 [CV Website](https://imadcv.vercel.app/)  
+- 🌍 [My Website](https://imadcv.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/imadaitlaasri/)  
 - 🔬 [ResearchGate](https://www.researchgate.net/profile/Imad-Ait-Laasri)  
 - ✉️ Email: **imadaitlaasri@gmail.com**  
