@@ -45,11 +45,11 @@ It integrates **PV generation, electrolysis, hydrogen storage, fuel cells, and w
 
 🔗 [GitHub Repository](https://github.com/imadafla/H2_UrbanPlus)  
 
-### [ImadCV – Personal CV Web App](https://github.com/imadafla/imadcv)  
+### [Imad – Personal Research Portfolio Web App](https://github.com/imadafla/imadcv)  
 🖥️ **React + TailwindCSS + Lucide**  
-A personal **Curriculum Vitae (CV) web application**, providing a modern, interactive, and responsive way to showcase my professional profile, skills, experience, and projects.  
+A personal **Research Portfolio web application**, providing a modern, interactive, and responsive way to showcase my professional profile, skills, experience, and projects with hidden secret lab files (fun if you can find the hidden easter egg to access it).  
 
-🔗 [Live CV Website](https://imadcv.vercel.app/)  
+🔗 [Live R&D Portfolio Website](https://imadcv.vercel.app/)  
 
 ---
 
